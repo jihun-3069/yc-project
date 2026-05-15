@@ -1,0 +1,58 @@
+{
+  "metadata_summary": {
+    "total_pages": 17,
+    "total_routes_extracted": 85,
+    "categories": [
+      "순환선 (Circular)",
+      "간선 (Main Trunk)",
+      "지선 (Feeder)"
+    ]
+  },
+  "routes": [
+    {
+      "number": "1",
+      "type": "순환선",
+      "start": "영천버스터미널앞",
+      "end": "영천버스터미널앞",
+      "interval": "8~42분",
+      "first": "06:30",
+      "last": "22:00"
+    },
+    {
+      "number": "1-1",
+      "type": "순환선",
+      "start": "영천버스터미널앞",
+      "end": "영천버스터미널앞",
+      "interval": "9~194분",
+      "first": "07:10",
+      "last": "16:49"
+    },
+    {
+      "number": "2",
+      "type": "순환선",
+      "start": "영천영대병원",
+      "end": "영천영대병원",
+      "interval": "15~35분",
+      "first": "06:30",
+      "last": "19:50"
+    },
+    {
+      "number": "55",
+      "type": "간선",
+      "start": "창신아파트앞",
+      "end": "창신영업소",
+      "interval": "10~30분",
+      "first": "05:30",
+      "last": "19:55"
+    },
+    {
+      "number": "171",
+      "type": "지선",
+      "start": "금호터미널",
+      "end": "금호터미널건너",
+      "interval": "일 1회",
+      "first": "14:10",
+      "last": "14:10"
+    }
+  ]
+}
